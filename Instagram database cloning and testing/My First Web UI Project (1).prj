@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>My First Web UI Project (1)</name>
+   <tag></tag>
+   <UUID>d98832b1-f9ef-4291-b3d6-253743f09cfa</UUID>
+   <createdEdition>ENTERPRISE</createdEdition>
+   <createdVersion>10.2.0</createdVersion>
+   <freeLicense>false</freeLicense>
+   <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>10.1.0</modifiedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\lamis\Desktop\Instagram database cloning and testing\Instagram database cloning and testing\My First Web UI Project (1).prj</projectFileLocation>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <timeStampInProperties>false</timeStampInProperties>
+   <type>WEBUI</type>
+</Project>

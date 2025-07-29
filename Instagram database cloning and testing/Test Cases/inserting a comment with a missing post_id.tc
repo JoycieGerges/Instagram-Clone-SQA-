@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>inserting a comment with a missing post_id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1c00fe04-36ae-4e5e-8399-7b09135cc3b0</testCaseGuid>
+</TestCaseEntity>

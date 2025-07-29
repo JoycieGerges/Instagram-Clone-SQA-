@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>inserting a follower without a follower_id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0bdfae78-be05-49c0-ad60-23ed33b23e63</testCaseGuid>
+</TestCaseEntity>

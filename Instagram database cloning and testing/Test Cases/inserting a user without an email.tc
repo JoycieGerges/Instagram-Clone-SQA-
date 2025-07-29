@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>inserting a user without an email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ced3ec6d-8bc7-4da0-90cf-fda4c971adae</testCaseGuid>
+</TestCaseEntity>

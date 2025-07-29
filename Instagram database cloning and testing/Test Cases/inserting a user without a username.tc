@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>inserting a user without a username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ff5bdeda-d618-42c0-838d-42458468c302</testCaseGuid>
+</TestCaseEntity>

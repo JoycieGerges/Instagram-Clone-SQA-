@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>inserting two users with the same username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8489e439-f314-4e1d-8f11-d01f909e590c</testCaseGuid>
+</TestCaseEntity>

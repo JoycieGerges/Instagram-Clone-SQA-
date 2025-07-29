@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>InstagramDatabase</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>d3de22ad-4406-41c1-9bc6-9c1bc2cc14ab</dataFileGUID>
+   <dataSourceUrl>jdbc:mysql://localhost:3306/instagram_clone</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName>com.mysql.cj.jdbc.Driver</driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password></password>
+   <properties>
+      <entry>
+         <key>readAsString</key>
+         <value>true</value>
+      </entry>
+   </properties>
+   <query>INSERT INTO users (username, email, password) &#xd;
+VALUES ('john_doe', 'john@example.com', '123456');</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>root</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
