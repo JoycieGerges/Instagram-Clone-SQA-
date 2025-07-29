@@ -1,0 +1,28 @@
+
+# Node.js / JavaScript / Frontend
+node_modules/
+dist/
+build/
+.env
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VS Code
+.vscode/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Python (if used for testing backend or automation)
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+
+# Testing tools (e.g., Katalon or Selenium)
+reports/
+screenshots/
+output/
