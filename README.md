@@ -17,10 +17,10 @@ A simplified web-based Instagram interface created for Software Quality Assuranc
 
 ## 🛠️ Tech Stack
 
-- HTML, CSS, JavaScript
-- MySQL (for database structure)
-- Katalon Studio / Postman / Selenium (for test cases)
-
+- MySQL Workbench
+- Java (JDK 8+)
+- Excel
+- MySQL Connector/J
 ---
 
 ## 📁 Folder Structure (Example)
@@ -44,18 +44,16 @@ Instagram-Clone/
 
 ---
 
+## 🧠 Author
 
+**Developed by [Joycie Gerges](mailto:joyciegerges@gmail.com)**
 
-## 📄 License
-
-This project is licensed under the MIT License.  
-See the [LICENSE](./LICENSE) file for details.
+📧 **Email:** [joyciegerges@gmail.com](mailto:joyciegerges@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/joycie-gerges-b45514248/)
 
 ---
 
-## 👨‍💻 Developed by
+## 📜 License
 
-**Mark Amgad George**  
-📧 [markamgad18@gmail.com](mailto:markamgad18@gmail.com)  
-🌐 [Portfolio](https://mark-a-portfolio.netlify.app)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mark-amgad) | [GitHub](https://github.com/markamgad1234)
+This project is licensed under the [MIT License](./LICENSE).
+
